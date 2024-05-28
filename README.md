@@ -39,9 +39,19 @@ z(시그마수준) = 1.67 불량률 = 47415 -> 4.7%
 
 평균 113.567, 표준편차 : 39.7698
 ```
+![image](https://github.com/chihyeonwon/6Sigma/assets/58906858/bdadc29c-e17b-4aab-b294-31040258a19d)
+```
+공정 z = 73.51 zlt 가 0.7351
 
+zst = zlt + 1.5 = 2.23 까지 가능
 
+불량률 23.11% z=0.73 으로 다소 미흡한 수준으로 숙련도 향상이 필요
+```
+![image](https://github.com/chihyeonwon/6Sigma/assets/58906858/e926ca28-9fa8-4128-bdaa-5b64afe3e259)
+```
+5점 만점에 평균 3.78 z 시그마 수준이 -0.22 이므로 다소 미흡하다.
 
+```
 
 
 
