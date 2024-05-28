@@ -5,6 +5,9 @@
 #### Work(Quick Action) VS Project 
 ```
 프로젝트와 단순 Work를 구분하여 사용자의 needs, seeds, wants를 개선 improve하는 방법 method를 논리적 logical 하게 해결하기 위함
+단순 UI나 View, widget 배치같은 경우 work quick action으로 구분
+사용자들의 불편사항 중 project를 장기간 프로젝트로 구성
+
 ```
 ```
 5월 27일~30일 6to10
