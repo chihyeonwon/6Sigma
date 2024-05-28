@@ -1,5 +1,11 @@
 # 6Sigma
 6시그마 GB 자격취득과정
+
+## 개발에서의 6 Sigma
+#### Work(Quick Action) VS Project 
+```
+프로젝트와 단순 Work를 구분하여 사용자의 needs, seeds, wants를 개선 improve하는 방법 method를 논리적 logical 하게 해결하기 위함
+```
 ```
 5월 27일~30일 6to10
 
