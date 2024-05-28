@@ -1,6 +1,7 @@
 # 6Sigma
 Minitab 3급, 6시그마 GB 자격취득과정      
 Minitab 6시그마 데이터 분석         
+![image](https://github.com/chihyeonwon/6Sigma/assets/58906858/62771206-5cc5-42d5-a8bd-6c1c82db71b7)
 
 ## 개발에서의 6 Sigma
 #### Work(Quick Action) VS Project 
