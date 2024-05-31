@@ -22,6 +22,10 @@
 ```
 ## 공정 능력 분석 개선, 향상
 ![image](https://github.com/chihyeonwon/6Sigma/assets/58906858/87cf80f0-53e3-4faf-a989-c04b78435694)
+![image](https://github.com/chihyeonwon/6Sigma/assets/58906858/b5e5c6d1-2156-4a5a-94d3-a7e071d24306)
+```
+평균과 z값 비교를 통한 공정 능력 분석, 개선
+```
 
 ## 히스토그램
 ![image](https://github.com/chihyeonwon/6Sigma/assets/58906858/ec35e15c-2542-4a1c-9f34-4e8afe3e88d2)
