@@ -22,15 +22,19 @@
 ```
 ## 히스토그램
 ![image](https://github.com/chihyeonwon/6Sigma/assets/58906858/ec35e15c-2542-4a1c-9f34-4e8afe3e88d2)
+![image](https://github.com/chihyeonwon/6Sigma/assets/58906858/e3457602-73bb-47d4-9898-6dd0fb9c2b6b)
 
 ## 점도표
 ![image](https://github.com/chihyeonwon/6Sigma/assets/58906858/616ea9ef-4d43-4413-adbf-26c2fb2a207b)
+![image](https://github.com/chihyeonwon/6Sigma/assets/58906858/e6b7259b-8719-414e-a4e9-94380e12ed10)
 
 ## 막대차트
 ![image](https://github.com/chihyeonwon/6Sigma/assets/58906858/5cf640af-0411-442b-9c2d-5e5a4cc1bf1d)
+![image](https://github.com/chihyeonwon/6Sigma/assets/58906858/f2b98ea6-7220-4810-b6be-bbfce116f0f1)
 
 ## 상자그림
 ![image](https://github.com/chihyeonwon/6Sigma/assets/58906858/4185659f-4a75-44a9-904d-2b4af877ebab)
+![image](https://github.com/chihyeonwon/6Sigma/assets/58906858/b1f86480-b558-436e-9ca3-1f426e559686)
 
 
 Minitab 3급, 6시그마 GB 자격취득과정      
