@@ -20,6 +20,9 @@
 6시그마는 고객 만족도 향상을 목표로 합니다. 애플리케이션 개발에서도 사용자 경험을 개선하여 고객 만족도를 높이는 프로젝트를 통해 6시그마를 활용할 수 있습니다.
 애플리케이션 개발 직무에서 6시그마 자격증을 활용하면 품질 관리, 데이터 분석, 프로젝트 관리, 고객 만족도 향상 등 다양한 측면에서 경쟁력을 갖출 수 있을 것입니다1
 ```
+## 공정 능력 분석 개선, 향상
+![image](https://github.com/chihyeonwon/6Sigma/assets/58906858/87cf80f0-53e3-4faf-a989-c04b78435694)
+
 ## 히스토그램
 ![image](https://github.com/chihyeonwon/6Sigma/assets/58906858/ec35e15c-2542-4a1c-9f34-4e8afe3e88d2)
 ![image](https://github.com/chihyeonwon/6Sigma/assets/58906858/e3457602-73bb-47d4-9898-6dd0fb9c2b6b)
