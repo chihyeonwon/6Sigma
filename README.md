@@ -363,10 +363,5 @@ TFT 팀원 멤버 구성의 문제 3순위
 -,자격증은 교육수료 및 실습과제 제출, 시험합격자에 한하여 취득할 수 있습니다. 
 -.교육수료증과 자격증은 한국커리어개발원 마이페이지에서 JPG  파일로 다운로드
 ```
-#### Minitab 18
-![image](https://github.com/chihyeonwon/6Sigma/assets/58906858/c49cb25a-c552-4999-aac5-2505d7cb5ad9)
-![image](https://github.com/chihyeonwon/6Sigma/assets/58906858/dc4f2f4a-1de8-4bd4-b481-c5e6c0a65585)
 
 
-#### 고용노동부 지정 직업교육(NCS코드) 수료증 
-#### 한국직업능력개발원 등록 직무자격증
